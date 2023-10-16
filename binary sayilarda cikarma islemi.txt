@@ -55,7 +55,7 @@ int main()
             swap++;
         }
     }
-//have not ended yet...
+//Binary sayıların 2ye tümlemesini yapar.
     
     
     
