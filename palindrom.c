@@ -1,6 +1,10 @@
 #include <stdio.h>
 int main() {
     int score = 0;
+    
+//cumleleri ve sayilari buraya yazabiliriz.    
+    
+    
     if (is_palindromic("elma", 4) == 0) score += 5;
     if (is_palindromic("yapay", 5) == 1) score += 5;
     if (is_palindromic("7895987", 7) == 1) score += 5;
